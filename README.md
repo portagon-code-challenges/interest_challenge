@@ -10,7 +10,8 @@
 - Don't invest too much time to make it look nice. It's all about functionality.
 
 # Task
-Your taks is to write a program that solves the following question within the given scenario, no more, no less :)
+Your taks is to write a program that solves the following question within the given scenario. no more, no less 😄
+
 As we are a Fintech, let's make this a quite realistic task here:
 
 ### Scenario
