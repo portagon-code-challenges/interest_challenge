@@ -12,7 +12,7 @@
 # Task
 Your taks is to write a program that solves the following question within the given scenario. no more, no less 😄
 
-As we are a Fintech, let's make this a quite realistic task here:
+As we are a Fintech, let's make this a quite realistic task here 💸 !
 
 ### Scenario
 - I invest the amount of 1000€ on Februray 8th, 2020.
