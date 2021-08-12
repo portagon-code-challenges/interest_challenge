@@ -19,7 +19,7 @@ As we are a Fintech, let's make this a quite realistic task here 💸 !
 - I receive a payment on June 30th for each of the following years: 2020, 2021, 2022, 2023. The payment consists of:
   - An interest payment of 5% per year (pro anno, p. a.)
   - A repayment of my investment of 25%
-- The interest calculation method is act/act
+- The interest calculation method is act/act.
 
 ### Question
 - What are my total payments on each of the qualifying dates?
