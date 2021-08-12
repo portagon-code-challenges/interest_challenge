@@ -7,14 +7,14 @@
 - There is no "correct" solution to this coding challenge, we want you to write some code so we can have a look at it :)
 - Try to keep it as simple as possible! Go for defaults whenever possible.
 - Don't spend too much time on this coding challenge!
-- Don't invest too any time to make it look nice. It's all about functionality.
+- Don't invest too much time to make it look nice. It's all about functionality.
 
 # Task
 Your taks is to write a program that solves the following question within the given scenario, no more, no less :)
 As we are a Fintech, let's make this a quite realistic task here:
 
 ### Scenario
-- I invest the amount of 1000€ at Februray 8th, 2020.
+- I invest the amount of 1000€ on Februray 8th, 2020.
 - I receive a payment on June 30th for each of the following years: 2020, 2021, 2022, 2023. The payment consists of:
   - An interest payment of 5% per year (pro anno, p. a.)
   - A repayment of my investment of 25%
